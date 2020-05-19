@@ -1,0 +1,13 @@
+{
+    "name": "guillaume/lesvuestwig",
+    "description": "6. Les vues avec Twig",
+    "authors": [
+        {
+            "name": "guillaume",
+            "email": "guillaume-giggs@hotmail.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
